@@ -28,6 +28,18 @@ Checkout [the code](./ukraine-war-images-search.ipynb)
 
 Just run the code in [Kaggle notebook](https://www.kaggle.com/code/pradeepjina/ukraine-war-images-search/edit/run/94888326) or copy [the notebook](./ukraine-war-images-search.ipynb) to your favorite ML notebook editor e.g. Colab, Jupyter, etc.
 
+## Roadmap
+
+- [x] Backend to search images using natural text
+- [ ] REST APIs for search to be used in frontend
+- [ ] Frontend Web UI to search easily
+- [ ] Backend APIs to upload image to the dataset
+- [ ] Frontend Web UI to upload your images to the dataset(with source citation)
+- [ ] Frontend Web UI to change the image dataset
+- [ ] Production deployment guide
+- [ ] Show image match score
+- [ ] Command palette for quick actions
+
 ## Contributions
 
 You can contribute to this project in two ways
