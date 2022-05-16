@@ -30,7 +30,8 @@ Just run the code in [Kaggle notebook](https://www.kaggle.com/code/pradeepjina/u
 
 ## Roadmap
 
-- [x] Backend to search images using natural text
+- [x] Backend to search images with natural text (powered by [CLIP](https://openai.com/blog/clip/) and [Jina CLIP-as-service](https://github.com/jina-ai/clip-as-service))
+- [x] Demo on Kaggle
 - [ ] REST APIs for search to be used in frontend
 - [ ] Frontend Web UI to search easily
 - [ ] Backend APIs to upload image to the dataset
